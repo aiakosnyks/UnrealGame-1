@@ -1263,3 +1263,158 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.09.30-14.48.58:333][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Sprite_Character_Auto2
 [2022.09.30-14.48.58:333][739]LogSavePackage: Moving '../../../../../Unreal Projects/Beginner2DGame/Saved/BP_Sprite_Character_Auto247EA9E984944FF397C76E08578514423.tmp' to '../../../../../Unreal Projects/Beginner2DGame/Saved/Autosaves/Game/Blueprints/BP_Sprite_Character_Auto2.uasset'
 [2022.09.30-14.48.58:334][739]LogFileHelpers: Auto-saving content packages took 0.008
+[2022.09.30-15.28.24:134][709]LogDerivedDataCache: C:/Users/aiakosnyks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.041 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.30-15.33.03:500][995]LogWindows: Warning: CreateProc failed: Sistem belirtilen dosyayı bulamıyor. (0x00000002)
+[2022.09.30-15.33.03:500][995]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2022.09.30-15.33.03:500][995]LogWindows: Warning: CreateProc failed: Sistem belirtilen dosyayı bulamıyor. (0x00000002)
+[2022.09.30-15.33.03:501][995]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2022.09.30-15.33.03:501][995]LogWindows: Warning: CreateProc failed: Sistem belirtilen dosyayı bulamıyor. (0x00000002)
+[2022.09.30-15.33.03:501][995]LogWindows: Warning: URL: C:\Users\aiakosnyks\AppData\Local/Programs/Git/cmd/git.exe version
+[2022.09.30-15.33.03:501][995]LogWindows: Warning: CreateProc failed: Sistem belirtilen dosyayı bulamıyor. (0x00000002)
+[2022.09.30-15.33.03:501][995]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2022.09.30-15.33.03:501][995]LogWindows: Warning: CreateProc failed: Sistem belirtilen dosyayı bulamıyor. (0x00000002)
+[2022.09.30-15.33.03:501][995]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2022.09.30-15.33.03:501][995]LogWindows: Warning: CreateProc failed: Sistem belirtilen dosyayı bulamıyor. (0x00000002)
+[2022.09.30-15.33.03:501][995]LogWindows: Warning: URL: C:\Users\aiakosnyks\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2022.09.30-15.33.03:501][995]LogWindows: Warning: CreateProc failed: Sistem belirtilen dosyayı bulamıyor. (0x00000002)
+[2022.09.30-15.33.03:501][995]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2022.09.30-15.34.08:052][375]LogWindows: Warning: CreateProc failed: Sistem belirtilen dosyayı bulamıyor. (0x00000002)
+[2022.09.30-15.34.08:052][375]LogWindows: Warning: URL: D:/EpicGames/UE_5.0/Engine/Binaries/Win64/https://github.com/aiakosnyks/UnrealProject-1.git version
+[2022.09.30-15.34.08:152][381]LogWindows: Warning: CreateProc failed: Sistem belirtilen dosyayı bulamıyor. (0x00000002)
+[2022.09.30-15.34.08:152][381]LogWindows: Warning: URL: D:/EpicGames/UE_5.0/Engine/Binaries/Win64/https://github.com/aiakosnyks/UnrealProject-1.git version
+[2022.09.30-15.34.08:152][381]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2022.09.30-15.34.31:228][652]LogWindows: Warning: CreateProc failed: Sistem belirtilen dosyayı bulamıyor. (0x00000002)
+[2022.09.30-15.34.31:228][652]LogWindows: Warning: URL: D:/EpicGames/UE_5.0/Engine/Binaries/Win64/https://github.com/aiakosnyks/UnrealProject-1.git version
+[2022.09.30-15.34.31:228][652]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2022.09.30-15.39.15:593][470]LogSlate: Window 'Message Log' being destroyed
+[2022.09.30-15.39.24:282][794]LogWindows: Warning: CreateProc failed: Sistem belirtilen dosyayı bulamıyor. (0x00000002)
+[2022.09.30-15.39.24:282][794]LogWindows: Warning: URL: D:/EpicGames/UE_5.0/Engine/Binaries/Win64/https://github.com/aiakosnyks/UnrealProject-1.git version
+[2022.09.30-15.39.24:282][794]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2022.09.30-15.39.40:153][712]LogSlate: Window 'Source Control Login' being destroyed
+[2022.09.30-15.40.22:332][125]SourceControl: Source control is disabled
+[2022.09.30-15.40.28:972][503]LogWindows: Warning: CreateProc failed: Sistem belirtilen dosyayı bulamıyor. (0x00000002)
+[2022.09.30-15.40.28:972][503]LogWindows: Warning: URL: D:/EpicGames/UE_5.0/Engine/Binaries/Win64/https://github.com/aiakosnyks/UnrealProject-1.git version
+[2022.09.30-15.40.53:025][945]LogSlate: Window 'Source Control Login' being destroyed
+[2022.09.30-15.41.12:334][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Content: 'D:/EpicGames/UE_5.0/Engine/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Bridge/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Bridge/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/2D/Paper2D/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Animation/ControlRig/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Animation/IKRig/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/FX/Niagara/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:335][ 44]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.41.12:556][ 44]EditorErrors: Warning: No assets to check in!
+[2022.09.30-15.41.18:343][362]SourceControl: Error: Operation 'UpdateChangelistsStatus' not supported by source control provider 'Git'
+[2022.09.30-15.41.26:958][708]LogSlate: Window 'New Changelist...' being destroyed
+[2022.09.30-15.41.29:092][830]LogSlate: Window 'View Changelists' being destroyed
+[2022.09.30-15.42.00:264][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_SideScroller" FILE="../../../../../Unreal Projects/Beginner2DGame/Content/Maps/Map_SideScroller.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.30-15.42.00:335][534]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2022.09.30-15.42.00:341][534]LogSavePackage: Moving output files for package: /Game/Maps/Map_SideScroller
+[2022.09.30-15.42.00:342][534]LogSavePackage: Moving '../../../../../Unreal Projects/Beginner2DGame/Saved/Map_SideScroller3640A8D743E4F2A63920FCA56C2B121C.tmp' to '../../../../../Unreal Projects/Beginner2DGame/Content/Maps/Map_SideScroller.umap'
+[2022.09.30-15.42.00:351][534]LogFileHelpers: Saving map 'Map_SideScroller' took 0.087
+[2022.09.30-15.42.00:351][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sprite_Character" FILE="../../../../../Unreal Projects/Beginner2DGame/Content/Blueprints/BP_Sprite_Character.uasset" SILENT=true
+[2022.09.30-15.42.00:358][534]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Sprite_Character
+[2022.09.30-15.42.00:359][534]LogSavePackage: Moving '../../../../../Unreal Projects/Beginner2DGame/Saved/BP_Sprite_Character154736EC4D9D01469FC5DDBDC3D2AEEB.tmp' to '../../../../../Unreal Projects/Beginner2DGame/Content/Blueprints/BP_Sprite_Character.uasset'
+[2022.09.30-15.42.00:377][534]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.30-15.42.00:377][534]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Sprite_Character.BP_Sprite_Character
+[2022.09.30-15.42.00:377][534]LogContentValidation: Display: Validating World /Game/Maps/Map_SideScroller.Map_SideScroller
+[2022.09.30-15.42.07:326][924]LogSlate: Window 'Source Control Login' being destroyed
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Content: 'D:/EpicGames/UE_5.0/Engine/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Bridge/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Bridge/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/2D/Paper2D/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Animation/ControlRig/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Animation/IKRig/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/FX/Niagara/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:241][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:242][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:242][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:242][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:242][304]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.42.14:629][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sprite_Character" FILE="../../../../../Unreal Projects/Beginner2DGame/Content/Blueprints/BP_Sprite_Character.uasset" SILENT=true
+[2022.09.30-15.42.14:638][304]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Sprite_Character
+[2022.09.30-15.42.14:639][304]LogSavePackage: Moving '../../../../../Unreal Projects/Beginner2DGame/Saved/BP_Sprite_CharacterFFEF045442841356A89FF4AD38F66541.tmp' to '../../../../../Unreal Projects/Beginner2DGame/Content/Blueprints/BP_Sprite_Character.uasset'
+[2022.09.30-15.42.14:640][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_SideScroller" FILE="../../../../../Unreal Projects/Beginner2DGame/Content/Maps/Map_SideScroller.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.30-15.42.14:675][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.09.30-15.42.14:678][304]LogSavePackage: Moving output files for package: /Game/Maps/Map_SideScroller
+[2022.09.30-15.42.14:679][304]LogSavePackage: Moving '../../../../../Unreal Projects/Beginner2DGame/Saved/Map_SideScroller36ADC9444C0253B0817719B3E2E18B39.tmp' to '../../../../../Unreal Projects/Beginner2DGame/Content/Maps/Map_SideScroller.umap'
+[2022.09.30-15.42.14:686][304]LogFileHelpers: Saving map 'Map_SideScroller' took 0.046
+[2022.09.30-15.42.34:535][304]LogSlate: Window 'Submit Files' being destroyed
+[2022.09.30-15.42.37:322][304]LogSourceControl: commit successful: [main 4dd5352] first commit
+[2022.09.30-15.42.37:421][304]SourceControl: [main 4dd5352] first commit
+[2022.09.30-15.42.37:421][304]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2022.09.30-15.42.37:457][304]SourceControl: Commited [main 4dd5352] first commit.
+[2022.09.30-15.42.37:510][305]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.30-15.42.37:510][305]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Sprite_Character.BP_Sprite_Character
+[2022.09.30-15.42.37:510][305]LogContentValidation: Display: Validating World /Game/Maps/Map_SideScroller.Map_SideScroller
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Content: 'D:/EpicGames/UE_5.0/Engine/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Bridge/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Bridge/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/2D/Paper2D/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Animation/ControlRig/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Animation/IKRig/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/FX/Niagara/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:697][890]SourceControl: fatal: D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content: 'D:/EpicGames/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal Projects/Beginner2DGame'
+[2022.09.30-15.47.08:837][890]EditorErrors: Warning: No assets to check in!
+[2022.09.30-15.47.13:378][136]SourceControl: Error: Operation 'UpdateChangelistsStatus' not supported by source control provider 'Git'
+[2022.09.30-15.47.17:580][386]LogSlate: Window 'View Changelists' being destroyed
+[2022.09.30-15.47.17:585][386]LogSlate: Window 'View Changelists' being destroyed
